@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  datasource: 
+    platform: postgres
+    username: tejkhynghosjpc
+    password: c40d92655b765d5e6787169aad1a8ac1df3224fb0cfa9bc89531a102f22e71c0
+    url: jdbc:postgresql://ec2-35-168-77-215.compute-1.amazonaws.com/d7glfabbr417fn
